@@ -2,23 +2,26 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  display: Nopnathon Navachai
+  given: Jan
+  family: Navachai
+  alternate: ''  
+  pronunciation: ''  
+  pronouns: They/them
 postnominals:
   - PhD
   - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Digital Marketing Lecturer
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+ Nopnathon “Jan” Navachai is a marketing lecturer, researcher, and digital marketing practitioner with a strong interest in consumer behaviour, neuromarketing, and digital commerce. She currently teaches in the field of Digital Marketing, where she combines academic knowledge with practical industry experience to help students understand how marketing works in the real business world.
+
+Her academic interests focus on how consumers think, feel, and make decisions, particularly under stress and in digitally driven environments. Jan is especially interested in Thai consumer behaviour, neurocognitive decision-making, and the role of culture in shaping consumer responses. Her current research explores the intersection of neuromarketing, consumer psychology, and digital marketing strategy.
+
+Beyond teaching and research, Jan is passionate about experiential learning and student development. She has mentored students in national business and marketing competitions, supported student-led creative projects, and designed learning activities that encourage students to apply marketing concepts to real-world business challenges.
+
+With experience across academia, market research, retail management, and digital marketing, Jan brings a multidisciplinary perspective to her work. Her goal is to bridge theory and practice by transforming complex marketing knowledge into practical insights that can support students, businesses, and future research in consumer behaviour.
 
 affiliations:
   - name: Meta AI
