@@ -8,7 +8,7 @@ role: Digital Marketing Lecturer
 # หน่วยงานที่สังกัด
 organizations:
   - name: คณะบริหารธุรกิจ มหาวิทยาลัยหอการค้าไทย (UTCC)
-    url: 'https://ba.utcc.ac.th/'
+    url: 'https://ubs.utcc.ac.th/staff/'
 
 # ประวัติย่อที่รวมจุดแข็งของแจน
 bio: >
