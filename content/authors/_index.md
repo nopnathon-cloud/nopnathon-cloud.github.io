@@ -1,37 +1,22 @@
 ---
 # ชื่อที่จะปรากฏใต้รูปภาพ
-title: Nopnathon Navachai (นพณธร นวชัย)
+title: "Nopnathon Navachai"
 
-# ตำแหน่งที่จะปรากฏใต้ชื่อ
-role: Digital Marketing Lecturer
+# ตำแหน่งงาน
+role: "Digital Marketing Lecturer"
 
-# หน่วยงานที่สังกัด
-organizations:
-  - name: คณะบริหารธุรกิจ มหาวิทยาลัยหอการค้าไทย (UTCC)
-    url: 'https://ubs.utcc.ac.th/staff/'
-
-# ประวัติย่อ (Professional Summary) ที่จะปรากฏด้านขวาของรูป
-bio: >
-  อาจารย์และนักวิจัยผู้เชี่ยวชาญด้านการตลาดดิจิทัลที่มีพื้นฐานทางวิทยาศาสตร์และประสบการณ์ทำงานในบริษัทระดับโลก มุ่งเน้นการศึกษาพฤติกรรมผู้บริโภคและ Neuromarketing โดยประยุกต์ใช้เครื่องมือ AI ในการวิเคราะห์ข้อมูลเพื่อสร้างกลยุทธ์ที่แม่นยำ
+# ประวัติย่อ (Professional Summary)
+bio: "อาจารย์และนักวิจัยผู้เชี่ยวชาญด้านการตลาดดิจิทัลที่มีพื้นฐานทางวิทยาศาสตร์และประสบการณ์ทำงานในบริษัทระดับโลก มุ่งเน้นการศึกษาพฤติกรรมผู้บริโภคและ Neuromarketing"
 
 # ความเชี่ยวชาญ
 interests:
-  - Digital Marketing & TikTok Consumer Behavior
-  - Neuromarketing
-  - AI tools for Creativity (Suno, Vomeo3, Mandala AI)
-  - Global Business Strategy
+  - "Digital Marketing"
+  - "Neuromarketing"
+  - "AI for Creativity"
 
 # ประวัติการศึกษา
 education:
   courses:
-    - course: Master of Commerce (Marketing & Management)
-      institution: Macquarie University (Sydney, Australia)
-
-# สถานะการแสดงผล
-build:
-  render: always
-cascade:
-  build:
-    render: always
-    list: always
+    - course: "Master of Commerce"
+      institution: "Macquarie University"
 ---
