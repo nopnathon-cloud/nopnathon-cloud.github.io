@@ -8,13 +8,11 @@ hugoblox:
   # IDENTITY
   # ────────────────────────────────────────────────────────────────────────────
   identity:
-    # ชื่อที่จะแสดงในแถบเมนูและหัวเว็บ
+    author: admin
     name: "Nopnathon Navachai"
     organization: "มหาวิทยาลัยหอการค้าไทย (UTCC)"
     type: person
-    # คำอธิบายใต้ชื่อ (Tagline)
     tagline: "Assistant Professor & Digital Marketing Researcher"
-    # คำอธิบายสำหรับ Google Search
     description: "อาจารย์และนักวิจัยผู้เชี่ยวชาญด้านการตลาดดิจิทัลและ Neuromarketing คณะบริหารธุรกิจ มหาวิทยาลัยหอการค้าไทย"
     social:
       twitter: ""
