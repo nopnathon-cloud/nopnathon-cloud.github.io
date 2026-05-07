@@ -1,15 +1,9 @@
-# ภาษาหลัก (อังกฤษ)
 en:
-  locale: en-us
-  # เมื่อเปิดใช้หลายภาษา เราจะย้ายเนื้อหาภาษาอังกฤษไปไว้ในโฟลเดอร์ en
-  contentDir: content/en
   languageName: English
-
-# ภาษาที่สอง (ไทย)
+  contentDir: content/en
+  weight: 1
 th:
-  locale: th-th
-  contentDir: content/th
   languageName: Thai
+  contentDir: content/th
+  weight: 2
   title: "นพณธร นวชัย | ผู้เชี่ยวชาญด้านการตลาดดิจิทัล"
-  params:
-    description: "อาจารย์และนักวิจัยด้านการตลาดดิจิทัลและ Neuromarketing มหาวิทยาลัยหอการค้าไทย"
