@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: ''
 # Website URL
-baseURL: '[https://nopnathon-cloud.github.io/](https://nopnathon-cloud.github.io/)'
+baseURL: 'https://nopnathon-cloud.github.io/'
 
 ############################
 ## LANGUAGE
