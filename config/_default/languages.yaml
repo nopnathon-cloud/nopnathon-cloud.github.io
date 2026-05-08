@@ -1,9 +1,11 @@
+# ภาษาอังกฤษ
 en:
   languageName: English
   contentDir: content/en
   weight: 1
+
+# ภาษาไทย
 th:
   languageName: Thai
   contentDir: content/th
   weight: 2
-  title: "นพณธร นวชัย | ผู้เชี่ยวชาญด้านการตลาดดิจิทัล"
